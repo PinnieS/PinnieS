@@ -23,20 +23,16 @@ I am currently working with **IT SAP Infrastructure (SAP Basis)** and have a dee
 [![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,git,github,githubactions,nginx)](https://skillicons.dev)
 
 #### 🏢 Enterprise Systems (SAP)
+<img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+
 > **Key Skills:** SAP Basis, Infrastructure Management
 
 ---
 
 ### 📊 GitHub Activities
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PinnieS&show_icons=true&theme=tokyonight" alt="PinnieS Stats" />
-</p>
+![Alvin's Stats](https://github-readme-stats.vercel.app/api?username=PinnieS&show_icons=true&theme=tokyonight&count_private=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinnieS&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PinnieS&layout=compact&theme=tokyonight&count_private=true)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PinnieS&theme=tokyonight)
