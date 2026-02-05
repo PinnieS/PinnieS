@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am currently working with **SAP Infrastructure** and have a deep passion for **Software Engineering** and **System Engineering**. I love building bridge between enterprise systems and modern web technologies.
+I am currently working with **IT SAP Infrastructure** and have a deep passion for **Software Engineering** and **System Engineering**. I love building bridges between enterprise systems and modern web technologies.
 
 - 🔭 **Current Focus:** SAP Basis and Fullstack Web Development (Backend & Frontend).
 - 🌱 **Learning Path:** Deep diving into System Architecture, DevOps (Cloud Native), and Advanced Backend Frameworks.
