@@ -23,20 +23,9 @@ I am currently working with **IT SAP Infrastructure (SAP Basis)** and have a dee
 [![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,git,github,githubactions,nginx)](https://skillicons.dev)
 
 #### 🏢 Enterprise Systems (SAP)
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sap.svg" width="40" height="40" alt="SAP Logo" />
-
 > **Key Skills:** SAP Basis, Infrastructure Management
-
 ---
 
 ### 📊 GitHub Activities
-
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=PinnieS&show_icons=true&theme=tokyonight" alt="PinnieS Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=PinnieS&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
