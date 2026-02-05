@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Alvin Rig!
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Software%20%26%20System%20Engineer%20Enthusiast&fontSize=35&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008080&width=435&lines=Software+%26+System+Engineer+Enthusiast;IT+SAP+Infrastructure+Professional" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
 I am an **IT SAP Infrastructure** professional with a deep passion for **Software Engineering** and **System Engineering**. I bridge the gap between SAP Basis/ABAP and modern Web Development.
 
-- 🔭 **Current Focus:** SAP Basis Administration, SAP Environment Management, and Fullstack Web Development (Frontend & Backend).
-- 🌱 **Learning Path:** Deep diving into System Architecture, Cloud Native (DevOps), and Advanced Backend Frameworks.
+- 🔭 **Current Focus:** SAP Basis Administration, Fullstack Web Development (Frontend & Backend).
+- 🌱 **Learning Path:** Deep diving into System Architecture, DevOps (Cloud Native), and Advanced Backend Frameworks.
 - ⚡ **Interest:** SAP ABAP, SAP Basis, Backend & Frontend Development, Automation Scripts, and Scalable Infrastructure.
 - 📬 **Reach Me:** [alvinrigz@gmail.com](mailto:alvinrigz@gmail.com)
 
@@ -35,10 +35,4 @@ I am an **IT SAP Infrastructure** professional with a deep passion for **Softwar
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quotes" />
 </p>
