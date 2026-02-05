@@ -1,21 +1,29 @@
 # Hi there 👋, I'm PinnieS!
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=SAP%20Infra%20|%20Software%20Engineer&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=SAP%20Expert%20|%20Fullstack%20Engineer&fontSize=40&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About Me
-I am an **IT SAP Infrastructure** professional with a deep passion for **Software Engineering** and **System Engineering**. I love bridging the gap between stable enterprise infrastructure and innovative software solutions.
+I am an **IT SAP Infrastructure** professional with a deep passion for **Software Engineering** and **System Engineering**. I bridge the gap between SAP Basis/ABAP and modern Web Development.
 
-- 🔭 **Current Focus:** Managing SAP Infrastructure & Environment.
-- 🌱 **Learning Path:** Deep diving into System Architecture and Backend Development.
-- ⚡ **Interest:** Automation, Scalable Systems, and Cloud Infrastructure.
+- 🔭 **Current Focus:** SAP Basis Administration, SAP Environment Management, and Fullstack Web Development (Frontend & Backend).
+- 🌱 **Learning Path:** Deep diving into System Architecture, Cloud Native, and Advanced Backend Frameworks.
+- ⚡ **Interest:** SAP ABAP, SAP Basis, Backend & Frontend Development, Automation Scripts, and Scalable Infrastructure.
 - 📬 **Reach Me:** [alvinrigz@gmail.com](mailto:alvinrigz@gmail.com)
 
 ---
 
 ### 🛠 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,py,cpp,js,nodejs,mysql,docker,aws,vscode,github)](https://skillicons.dev)
+
+#### 🌐 Web Development & Backend
+[![Web Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,react,nextjs,mysql,postgres,mongodb,express)](https://skillicons.dev)
+
+#### 🚀 DevOps & Infrastructure
+[![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,git,github,githubactions,nginx)](https://skillicons.dev)
+
+#### 🏢 Enterprise Systems (SAP)
+> **Expertise:** SAP Basis, SAP ABAP, Infrastructure Management
 
 ---
 
