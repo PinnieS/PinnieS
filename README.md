@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Alvin Rig!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008080&width=435&lines=Software+%26+System+Engineer+Enthusiast;Working+with+SAP+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008080&width=600&lines=Software+%26+System+Engineer+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
-I am currently working with **SAP Infrastructure** and have a deep passion for **Software Engineering** and **System Engineering**. I love building bridge between enterprise systems and modern web technologies.
+I am an IT professional currently focused on **SAP Infrastructure** with a deep passion for **Software Engineering** and **System Engineering**.
 
-- 🔭 **Current Focus:** SAP Basis Administration and Fullstack Web Development.
-- 🌱 **Learning Path:** System Architecture, DevOps, and SAP ABAP.
-- ⚡ **Interest:** Backend & Frontend Development, Automation Scripts, and Scalable Infrastructure.
+- 🔭 **Current Focus:** SAP Basis and Fullstack Web Development (Backend & Frontend).
+- 🌱 **Learning Path:** Deep diving into System Architecture, DevOps (Cloud Native), and Advanced Backend Frameworks.
+- ⚡ **Interest:** Backend & Frontend Development, Automation Scripts, Scalable Infrastructure, DevOps, SAP Basis, & SAP ABAP.
 - 📬 **Reach Me:** [alvinrigz@gmail.com](mailto:alvinrigz@gmail.com)
 
 ---
@@ -23,7 +23,7 @@ I am currently working with **SAP Infrastructure** and have a deep passion for *
 [![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,git,github,githubactions,nginx)](https://skillicons.dev)
 
 #### 🏢 Enterprise Systems (SAP)
-> **Key Skills:** SAP Basis Administration
+> **Key Skills:** SAP Basis, Infrastructure Management
 
 ---
 
