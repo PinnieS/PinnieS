@@ -1,14 +1,14 @@
-# Hi there 👋, I'm PinnieS!
+# Hi there 👋, I'm Alvin Rig!
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=SAP%20Expert%20|%20Fullstack%20Engineer&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Software%20%26%20System%20Engineer%20Enthusiast&fontSize=35&animation=fadeIn" />
 </p>
 
 ### 👨‍💻 About Me
 I am an **IT SAP Infrastructure** professional with a deep passion for **Software Engineering** and **System Engineering**. I bridge the gap between SAP Basis/ABAP and modern Web Development.
 
 - 🔭 **Current Focus:** SAP Basis Administration, SAP Environment Management, and Fullstack Web Development (Frontend & Backend).
-- 🌱 **Learning Path:** Deep diving into System Architecture, Cloud Native, and Advanced Backend Frameworks.
+- 🌱 **Learning Path:** Deep diving into System Architecture, Cloud Native (DevOps), and Advanced Backend Frameworks.
 - ⚡ **Interest:** SAP ABAP, SAP Basis, Backend & Frontend Development, Automation Scripts, and Scalable Infrastructure.
 - 📬 **Reach Me:** [alvinrigz@gmail.com](mailto:alvinrigz@gmail.com)
 
@@ -16,7 +16,7 @@ I am an **IT SAP Infrastructure** professional with a deep passion for **Softwar
 
 ### 🛠 Tech Stack & Tools
 
-#### 🌐 Web Development & Backend
+#### 🌐 Web Development (Frontend & Backend)
 [![Web Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,py,react,nextjs,mysql,postgres,mongodb,express)](https://skillicons.dev)
 
 #### 🚀 DevOps & Infrastructure
