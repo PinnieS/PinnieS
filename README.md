@@ -29,3 +29,11 @@ I am currently working with **IT SAP Infrastructure (SAP Basis)** and have a dee
 ### 📊 GitHub Activities
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
+
+<h2 align="center">Spotify Recently Played</h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31h2crmubcaopb3v6a642q4oji7q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h2crmubcaopb3v6a642q4oji7q" alt="Spotify recently played" />
+  </a>
+</div>
