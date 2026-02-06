@@ -28,4 +28,11 @@ I am currently working with **IT SAP Infrastructure (SAP Basis)** and have a dee
 
 ### 📊 GitHub Activities
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PinnieS&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinnieS&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=PinnieS&theme=tokyonight" alt="GitHub Streak" />
+</p>
