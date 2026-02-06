@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Alvin Rig!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008080&width=600&lines=Software+%26+System+Engineer+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008080&width=600&lines=Software+%26+System+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
