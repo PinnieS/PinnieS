@@ -7,8 +7,8 @@
 ### 👨‍💻 About Me
 I am currently working with **SAP BASIS & ABAP (Advanced Business Application Programming) CONSULTANT** and have a deep passion for **Software Engineering** and **System Engineering**. I love building bridges between enterprise systems and modern web technologies.
 
-- 🔭 **Current Focus:** SAP Basis and Fullstack Web Development (Backend & Frontend).
-- 🌱 **Learning Path:** Deep diving into System Architecture, DevOps (Cloud Native), and Advanced Backend Frameworks.
+- 🔭 **Current Focus:** SAP Basis with additional technical exposure to ABAP development and Fullstack Web Development (Backend & Frontend).
+- 🌱 **Learning Path:** Deep diving into System Architecture, DevOps (Cloud Native), and Advanced Backend Frameworks, SAP BASIS & ABAP.
 - ⚡ **Interest:** Backend & Frontend Development, Automation Scripts, Scalable Infrastructure, DevOps, SAP Basis, & SAP ABAP.
 - 📬 **Reach Me:** [alvinrigz@gmail.com](mailto:alvinrigz@gmail.com)
 
