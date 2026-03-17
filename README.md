@@ -23,7 +23,7 @@ I am currently working with **SAP BASIS & ABAP (Advanced Business Application Pr
 [![DevOps Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,gcp,git,github,githubactions,nginx)](https://skillicons.dev)
 
 #### 🏢 Enterprise Systems (SAP)
-> **Key Skills:** SAP Basis, Infrastructure Management
+> **Key Skills:** SAP Basis, SAP ABAP, Infrastructure Management
 ---
 
 ### 📊 GitHub Activities
